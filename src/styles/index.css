@@ -1,0 +1,11 @@
+.heading{
+    padding-bottom: 1em;
+}
+
+.card-style{
+    padding-bottom: 2em;
+}
+
+html, body, #root, #root>div {
+    background-color: rgb(221, 207, 207);
+}
